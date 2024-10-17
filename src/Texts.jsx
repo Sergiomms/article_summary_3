@@ -595,7 +595,7 @@ describe the long-term clinical courses of these patients.`
 
   // Função que rola até o texto específico
   useEffect(() => {
-    if (savedNumber >= 1 && savedNumber <= 18) {
+    if (savedNumber >= 1 && savedNumber <= 14) {
       // Certifica que o número do texto é válido e rola até ele
       textRefs.current[savedNumber - 1].scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
