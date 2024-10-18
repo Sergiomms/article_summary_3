@@ -626,8 +626,11 @@ describe the long-term clinical courses of these patients.`
 
       <footer className="footer">
         <p>
-          Material destinado aos profissionais da saúde. Este material pode conter informações sobre terapias ou medicamentos ainda não
-          aprovados no Brasil. A Amgen recomenda o uso de seus medicamentos de acordo com a aprovação regulatória local.
+          Material científico e não promocional, destinado à atualização científica, com base em dados
+          científicos e equilibrados disponíveis na literatura. Esse material não apresenta nenhuma
+          intenção comercial. Material destinado aos profissionais da saúde. Este material pode conter
+          informações sobre terapias ou medicamentos ainda não aprovados no Brasil. A Amgen recomenda o
+          uso de seus medicamentos de acordo com a aprovação regulatória local.
         </p>
         <p>SC-BRA-AMG103-00637. Aprovado em outubro de 2024.</p>
       </footer>
