@@ -605,7 +605,7 @@ describe the long-term clinical courses of these patients.`
   return (
     <div className="text-container">
       <header>
-        <h1>Blina Frontline Idoso</h1>
+        <h1>Blinatumomabe em frontline - idosos</h1>
       </header>
 
       {array1to60.map((item, index) => {
